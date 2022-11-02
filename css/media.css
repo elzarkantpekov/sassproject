@@ -1,0 +1,598 @@
+@media(max-width: 1440px){
+  #card .card--group button {
+    margin: 0 620px;
+  }
+  #card .card--icon__one {
+    padding-left: 555px;
+  }
+}
+@media(max-width: 1200px){
+  #wood .wood button {
+    margin: 50px 550px;
+  }
+  #puzzle .puzzle--box {
+    height: 444px;
+  }
+  #puzzle .puzzle--verb {
+    height: 400px;
+  }
+  #puzzle .puzzle--money {
+    height: 444px;
+  }
+  #rain .rain {
+    gap: 80px;
+    padding: 40px 50px;
+  }
+  #speed .speed p {
+    font-size: 15px;
+  }
+  #speed .speed--united h2 {
+    font-size: 18px;
+  }
+  #speed .speed--united span {
+    font-size: 13px;
+  }
+  #card .card--group button {
+    margin: 0 500px;
+  }
+  #card .card--icon__one {
+    padding-left: 432px;
+  }
+}
+@media(max-width: 1040px){
+  #hero .hero--grand p, body .hero--grand p {
+    font-size: 15px;
+  }
+  #about .about--services p {
+    font-size: 15px;
+  }
+  #puzzle .puzzle a {
+    font-size: 15px;
+  }
+  #puzzle .puzzle h1 {
+    font-size: 30px;
+  }
+  #puzzle .puzzle--box {
+    height: 574px;
+  }
+  #puzzle .puzzle--verb {
+    height: 540px;
+  }
+  #puzzle .puzzle--money {
+    height: 504px;
+  }
+  #wood .wood button {
+    margin: 50px 450px;
+  }
+  #rain .rain {
+    gap: 40px;
+    width: 2px;
+    padding: 40px 30px;
+  }
+  #speed .speed p {
+    font-size: 13px;
+  }
+  #speed .speed img {
+    width: 50px;
+  }
+  #ball .ball img {
+    width: 400px;
+  }
+  #ball .ball--sky h1 {
+    font-size: 52px;
+    line-height: 57px;
+  }
+  #card .card--group button {
+    margin: 0 420px;
+  }
+  #card .card--icon__one {
+    padding-left: 362px;
+  }
+  #tell .tell--call {
+    padding-left: 10px;
+  }
+}
+@media(max-width: 998px){
+  #rain .rain img {
+    width: 300px;
+  }
+  #about .about--services h1 {
+    font-size: 42px;
+  }
+  #portal .portal--kill h1 {
+    font-size: 52px;
+  }
+  #portal .portal img {
+    width: 300px;
+  }
+  #portal .portal--kill p {
+    font-size: 15px;
+  }
+  #portal .portal {
+    display: flex;
+    align-items: center;
+  }
+  #title .title h1 {
+    font-size: 52px;
+    line-height: 67px;
+  }
+  #week .week--deck h1 {
+    font-size: 25px;
+    line-height: 37px;
+  }
+  #week .week--deck p {
+    font-size: 10px;
+    line-height: 20px;
+  }
+  #week .week--super {
+    height: 300px;
+  }
+  #pizza .pizza h1 {
+    font-size: 42px;
+  }
+
+  element.style {
+  }
+  #pizza .pizza p {
+    font-size: 15px;
+  }
+
+  element.style {
+  }
+  #wood .wood h1 {
+    font-size: 40px;
+  }
+
+  element.style {
+  }
+  #wood .wood h1 {
+    font-size: 40px;
+  }
+  #ship .ship--moon img {
+    width: 400px;
+    padding: 0 1px;
+  }
+  #plane .plane h1 {
+    font-size: 52px;
+  }
+  #rain .rain img {
+    width: 200px;
+    padding: 0 15px;
+  }
+  #speed .speed h1 {
+    font-size: 40px;
+  }
+  #card .card--group h1 {
+    font-size: 52px;
+  }
+  #card .card--group p {
+    font-size: 18px;
+  }
+    #card .card--group button {
+      margin: 0 400px;
+    }
+  #card .card--icon__one {
+    padding-left: 332px;
+  }
+  #tell .tell--call a {
+    padding: 0 10px;
+  }
+}
+@media(max-width: 768px){
+  #puzzle .puzzle {
+    padding: 40px 10px;
+  }
+  #week .week--deck button {
+    width: 121px;
+    height: 33px;
+    font-size: 12px;
+  }
+  #wood .wood button {
+    margin: 50px 330px;
+  }
+  #week .week--deck {
+    padding: 0 10px;
+  }
+  #title .title--git {
+    margin: 2px;
+  }
+  #portal .portal img {
+    width: 200px;
+    padding: 0 20px 20px;
+  }
+  #hero .hero--lait, body .hero--lait {
+    margin: 2px;
+  }
+  #hero .hero--grand, body .hero--grand {
+    margin: 80px 0;
+    padding: 0;
+  }
+  #hero .hero--lait, body .hero--lait {
+    margin: 9px;
+    width: 274px;
+    height: 239px;
+  }
+  #header .header--lot {
+    border: none;
+    padding: 0 22px;
+    font-size: 10px;
+  }
+  #header .header img {
+    width: 100px;
+  }
+  #header .header--lot{
+    padding: 0 2px;
+  }
+  #hero .hero, body .hero {
+   flex-direction: column;
+  }
+  #hero .hero--grand h1, body .hero--grand h1 {
+    font-size: 24px;
+  }
+  p, body .hero--grand p {
+    font-size: 12px;
+  }
+  #about .about {
+  flex-direction: column;
+  }
+  #about .about--circle {
+    margin: 0;
+    width: 294px;
+    height: 259px;
+  }
+  #about .about--services {
+    margin: 10px 1px;
+  }
+  #about .about--services p {
+    font-size: 12px;
+  }
+  #about .about--services h1 {
+    font-size: 29px;
+    line-height: 57px;
+  }
+  #portal .portal--kill h1 {
+    font-size: 32px;
+}
+  #title .title h1 {
+    font-size: 32px;
+  }
+  #title .title p {
+    font-size: 15px;
+    padding: 1px 0 5px
+  }
+  #title .title--git {
+    width: 494px;
+    height: 209px;
+  }
+  #week .week--super {
+    margin: 2px;
+    width: 264px;
+    height: 199px;
+  }
+  #week .week {
+    display: flex;
+    align-items: center;
+  }
+  #pizza .pizza h1 {
+    font-size: 32px;
+  }
+  #wood .wood h1 {
+    font-size: 30px;
+  }
+  #wood .wood p {
+    font-size: 10px;
+  }
+  #ship .ship {
+    flex-direction: column;
+    padding: 50px 150px;
+  }
+  #ship .ship--moon img {
+    width: 400px;
+    padding: 20px 1px;
+  }
+  #rain .rain {
+    flex-direction: column;
+  }
+  #rain .rain img {
+    width: 120px;
+    padding: 0 310px;
+  }
+  #ball .ball {
+    flex-direction: column;
+  }
+  #portal .portal {
+    flex-direction: column;
+  }
+  #speed .speed--robot {
+    flex-direction: column;
+  }
+  #card .card--group button {
+    margin: 0 290px;
+  }
+  #card .card--icon__one {
+    padding-left: 222px;
+  }
+  #white .white {
+    flex-direction: column;
+  }
+  #tell .tell {
+    flex-direction: column;
+  }
+
+}
+@media(max-width: 560px){
+  #header .header--lot {
+    display: none;
+  }
+  #portal .portal img {
+    width: 200px;
+    padding: 50px 20px 20px;
+  }
+  #title .title h1 {
+    line-height: 47px;
+  }
+  #title .title p {
+    line-height: 30px;
+  }
+  #title .title {
+    margin: 10px 10px 10px;
+  }
+  #week .week--deck p {
+    font-size: 9px;
+  }
+  #week .week--deck h1 {
+    line-height: 30px;
+  }
+  #week .week--super {
+    width: 200px;
+    height: 179px;
+    margin: 20px 0;
+  }
+  #puzzle .puzzle {
+    flex-direction: column;
+  }
+  #puzzle .puzzle--box {
+    padding: 40px 44px;
+    gap: 25px;
+    width: 193px;
+    height: 400px;
+  }
+  #puzzle .puzzle--verb {
+    height: 380px;
+    width: 190px;
+  }
+  #puzzle .puzzle--money {
+    height: 404px;
+    width: 195px;
+  }
+  #wood .wood button {
+    margin: 50px 200px
+  }
+  #ship .ship--work h1 {
+    font-size: 52px;
+    line-height: 67px;
+  }
+  #ship .ship--work h1 {
+    font-size: 42px;
+  }
+  #rain .rain {
+    margin-left: -110px;
+  }
+  #ball .ball img {
+    width: 300px;
+    padding: 0 0 10px;
+  }
+  #ball .ball--sky {
+    padding: 0 10px;
+  }
+  #ball .ball--sky h1 {
+    font-size: 37px;
+    line-height: 46px;
+  }
+  #ball .ball--sky p {
+    font-size: 17px;
+    line-height: 28px
+  }
+  #speed .speed h1 {
+    font-size: 35px;
+  }
+  #speed .speed--clock {
+    width: 290px;
+    height: 361px;
+  }
+  #speed .speed--btn {
+    width: 290px;
+    height: 361px;
+  }
+  #speed .speed--path {
+    width: 290px;
+    height: 361px;
+  }
+  #card .card--group h1 {
+    font-size: 42px;
+    line-height: 57px;
+    padding: 100px 0 0 0;
+  }
+  #card .card--group button {
+    margin: 0 180px;
+  }
+  #card .card--icon__one {
+    padding-left: 160px;
+  }
+}
+@media(max-width: 450px){
+  #portal .portal--kill p {
+    font-size: 13px;
+  }
+  #portal .portal--kill p {
+    font-size: 13px;
+    padding: 3px 9px;
+  }
+  #hero .hero--grand h1, body .hero--grand h1 {
+    line-height: 32px;
+  }
+  #hero .hero--grand, body .hero--grand {
+    margin: 1px 0;
+  }
+  #about .about--services button {
+    width: 100px;
+    height: 30px;
+  }
+  #portal .portal--kill button {
+    width: 92px;
+    height: 27px;
+    font-size: 13px;
+  }
+  #title .title {
+    flex-wrap: wrap;
+  }
+  #wood .wood p {
+    font-size: 8px;
+  }#wood .wood button {
+     margin: 20px 190px;
+      width: 97px;
+       height: 30px;
+   }
+  #ship .ship {
+    padding: 50px 1px;
+  }
+  #ship .ship--work h1 {
+    font-size: 35px;
+  }
+  #ship .ship--work p {
+    padding: 8px 0;
+    font-size: 12px;
+  }
+  #ship .ship--work button {
+    font-size: 11px;
+    width: 109px;
+    height: 32px;
+  }
+  #ship .ship--moon img {
+    width: 350px;
+    padding: 31px 1px;
+  }
+  #plane .plane h1 {
+    font-size: 40px;
+  }
+  #ship .ship {
+    padding: 26px 1px 0;
+  }
+  #rain .rain {
+    margin-left: -141px;
+    padding: 30px 0;
+  }
+  #ball .ball--sky button {
+    font-size: 13px;
+    width: 133px;
+    height: 36px;
+  }
+  #speed .speed--port {
+    padding: 33px 0 0
+  }
+  #card .card--group h1 {
+    font-size: 38px;
+    line-height: 51px;
+    padding: 60px 0 0 0;
+  }
+  #card .card--group p {
+    font-size: 24px;
+    line-height: 26px;
+    padding: 24px 0;
+  }
+  #card .card--group button {
+    margin: 0 150px;
+    width: 149px;
+    height: 42px;
+  }
+  #card .card--icon__one {
+    padding-left: 103px;
+  }
+  #white .white--group {
+    padding: 0 0 20px;
+  }
+  #white .white--nav {
+    padding: 0 0 20px;
+  }
+  #white .white--link {
+    padding: 0 0 20px;
+  }
+  #tell .tell--call {
+    padding-left: 20px;
+    margin: 15px;
+  }
+  #white .white--about button {
+    width: 132px;
+    height: 30px;
+    font-size: 11px;
+  }
+}
+@media(max-width: 380px){
+  #hero .hero--grand, body .hero--grand {
+    margin: 1px 10px
+  }
+  #hero .hero--grand h1, body .hero--grand h1 {
+    padding: 18px 0 1px;
+  }
+  #header .header button {
+    border-radius: 2px;
+    font-size: 13px;
+    width: 113px;
+    height: 20px;
+  }
+  #hero .hero--lait, body .hero--lait {
+    margin: 10px;
+    width: 245px;
+    height: 132px;
+  }
+  #about .about--services p {
+    font-size: 11px;
+  }
+  #about .about--services h1 {
+    font-size: 28px;
+    line-height: 36px;
+  }
+  #about .about--circle {
+    width: 252px;
+    height: 150px;
+  }
+  #portal .portal--kill h1 {
+    font-size: 29px;
+  }
+  #portal .portal--kill p {
+    font-size: 11px;
+    padding: 13px 9px;
+    line-height: 27px;
+  }
+  #title .title h1 {
+    font-size: 30px;
+  }
+  #title .title p {
+    font-size: 16px;
+    padding: 1px 0 15px;
+    line-height: 25px;
+  }
+  #title .title button {
+    width: 93px;
+    height: 26px;
+    font-size: 11px;
+  }
+  #title .title--git {
+    width: 239px;
+    height: 149px;
+    margin: 14px;
+  }
+  #week .week {
+    flex-direction: column;
+  }
+  #pizza .pizza p {
+    font-size: 11px;
+    width: 162px;
+    padding: 0 100px;
+  }
+  #wood .wood h1 {
+    font-size: 23px;
+    padding: 30px 0 0   ;
+  }
+}
+@media(max-width: 320px){}
